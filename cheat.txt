@@ -1,0 +1,21 @@
+go south
+go south
+go east
+confront shark
+yes
+go west
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+p
+go east
+go east
+go east
+go north
